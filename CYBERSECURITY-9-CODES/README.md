@@ -12,4 +12,4 @@ S8_Cyber Attacks  - DNS Attacks & DDoS<br>
 S9_Cyber Attacks -  Attack & Defend Case Study<br>
 S10_Security Shield Challenge - Cyber Defense Skills<br>
 S11_Impact of Cyber Security Globally <br>
-FINAL PPT: Cyber Law with Equifax Case Study<br>
+S12 FINAL PPT: Cyber Law with Equifax Case Study<br>
